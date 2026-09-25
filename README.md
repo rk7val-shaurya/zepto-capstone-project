@@ -1,14 +1,4 @@
 # Zepto Data and AI Platform
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-73% of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 0 minutes ago
-Currently being used in 2 other locations · Details
-# Zepto Data and AI Platform
 
 A Python capstone project demonstrating data engineering, exploratory
 analysis, machine learning, and a document-based support assistant.
